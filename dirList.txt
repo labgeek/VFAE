@@ -1,0 +1,7 @@
+Program Files\
+Documents and Settings\
+Documents and Settings\Administrator\
+Documents and Settings\All Users\
+Documents and Settings\Administrator\Local Settings\Temp\
+WINDOWS\Temp\
+WINDOWS\
